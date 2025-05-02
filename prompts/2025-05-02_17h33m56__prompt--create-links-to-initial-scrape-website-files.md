@@ -6,3 +6,7 @@ the links between the files and other code assets are broken now. analyze and fi
 # resources and context
 
 code (folder containing all the files)
+
+# ai conversation - follow ups
+
+clean up all the testing infrastructure and files you created that are not needed anymore.
